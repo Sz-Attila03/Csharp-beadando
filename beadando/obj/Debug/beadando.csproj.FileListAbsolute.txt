@@ -1,0 +1,7 @@
+D:\mega\egyetem\beadandok\c# programozás\beadando\beadando\bin\Debug\beadando.exe.config
+D:\mega\egyetem\beadandok\c# programozás\beadando\beadando\bin\Debug\beadando.exe
+D:\mega\egyetem\beadandok\c# programozás\beadando\beadando\bin\Debug\beadando.pdb
+D:\mega\egyetem\beadandok\c# programozás\beadando\beadando\obj\Debug\beadando.csproj.AssemblyReference.cache
+D:\mega\egyetem\beadandok\c# programozás\beadando\beadando\obj\Debug\beadando.csproj.CoreCompileInputs.cache
+D:\mega\egyetem\beadandok\c# programozás\beadando\beadando\obj\Debug\beadando.exe
+D:\mega\egyetem\beadandok\c# programozás\beadando\beadando\obj\Debug\beadando.pdb
